@@ -22,7 +22,7 @@ const getCorrectScreen = (tab) => {
   switch (tab) {
     case "Delivery":
       return <Delivery />;
-    case "Dining Out":
+    case "Diningout":
       return <Diningout />;
     case "Nightlife":
       return <Nightlife />;

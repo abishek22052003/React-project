@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 @import "./Styles/commomClasses.css";
+@import "./Styles/variable.css";
 
 body {
   margin: 0;
